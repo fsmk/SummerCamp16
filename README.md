@@ -13,4 +13,6 @@ This repository is meant to share the campaign material , pre workshop study mat
 * Send a pull request (PR) from cloned repo to upstream
 * After verification, PR will be merged to master
 
+**Note:** Please refer to [last year's repo] (https://github.com/fsmk/SummerCamp15) in order to figure out the document for a particular file.
+
 Feel free to ping [@abhi12ravi] (https://web.telegram.org/#/im?p=@abhi12ravi) for any questions.
